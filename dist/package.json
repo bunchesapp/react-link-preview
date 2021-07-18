@@ -1,0 +1,36 @@
+{
+  "name": "@bunchesapp/react-link-preview",
+  "license": "MIT",
+  "version": "0.0.0",
+  "private": false,
+  "description": "React library to preview links.",
+  "author": "Bunches",
+  "keywords": [
+    "react",
+    "react-link-preview",
+    "link",
+    "preview",
+    "card"
+  ],
+  "homepage": "https://github.com/bunchesapp/react-link-preview",
+  "bugs": {
+    "url": "https://github.com/bunchesapp/react-link-preview/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunchesapp/react-link-preview.git"
+  },
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "dependencies": {
+    "react-loading-skeleton": "^2.2.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
