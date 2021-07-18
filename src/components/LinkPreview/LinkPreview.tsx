@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import './linkPreview.scss';
 import Skeleton from './Skeleton';
 
-const proxyLink = 'https://rlp-proxy.herokuapp.com/v2?url=';
+const proxyLink = 'http://localhost:8080/v2?url=';
 
 export interface LinkPreviewProps {
   url: string;
