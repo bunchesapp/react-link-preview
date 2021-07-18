@@ -1,10 +1,10 @@
 {
-  "name": "@dhaiwat10/react-link-preview",
+  "name": "@bunchesapp/react-link-preview",
   "license": "MIT",
   "version": "0.0.0",
   "private": false,
   "description": "React library to preview links.",
-  "author": "Dhaiwat Pandya",
+  "author": "Bunches",
   "keywords": [
     "react",
     "react-link-preview",
@@ -12,13 +12,13 @@
     "preview",
     "card"
   ],
-  "homepage": "https://github.com/dhaiwat10/react-link-preview",
+  "homepage": "https://github.com/bunchesapp/react-link-preview",
   "bugs": {
-    "url": "https://github.com/dhaiwat10/react-link-preview/issues"
+    "url": "https://github.com/bunchesapp/react-link-preview/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhaiwat10/react-link-preview.git"
+    "url": "git+https://github.com/bunchesapp/react-link-preview.git"
   },
   "scripts": {
     "build": "yarn clean & rollup -c",
